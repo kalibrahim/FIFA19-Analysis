@@ -7,7 +7,8 @@
 
 # Installation<a name="installation"></a>
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
-Packages used:
+
+#### Packages used:
   * Seaborn
   * Numpy
   * Matplotlib
@@ -33,6 +34,7 @@ done on this dataset. Markdown cells were used to coment out my findings.
 # Results<a name="results"></a>
 The main findings of this code can be found on a medium post [here](https://medium.com/@kalibrahim/fifa19-how-do-you-become-messi-684c585e48b8).
 I found that there is a high relationship between The players' overall rating and value and wages, which for the most part it can contribute for a club/ nation to win a title.
+I have also done a prediction at the end of my notebook. I was trying to predict the players' overall based on the selected features. Please check the notebook for the results.
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Kaggle and sofifa.com for getting this dataset. Feel free to use and fork this project as you would like.
